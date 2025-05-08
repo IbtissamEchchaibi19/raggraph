@@ -1,0 +1,27 @@
+Analysis Report
+
+Product: Honey
+Sample description / Batch: SAMPLE 1 - HH SIDR VIMTO
+Sampling: Client
+Packaging / Quantity: Plastic container / ca. 60g
+Start / End of analysis: 23.06.2021 / 24.06.2021
+
+ANALYSIS REQUESTED: Commercial Analysis with Diastase Activity by Schade method (101214)
+
+| Parameter         | Result | Unit     | Method                      |
+|-------------------|--------|----------|-----------------------------|
+| HMF               | 2.8    | mg/kg    | DIN 10751-3:2018-09 (a)     |
+| Moisture content  | 18.7   | %        | ASU L 40.00-2/2, mod (a) 1 |
+| pH                | 5.3    | pH       | PM DE01.042:2018-03 (a)    |
+| Diastase          | 8.8    | DZ       | ASU L 40.00-1, mod. (a) 2  |
+| Free acid         | 11,6   | mmol/kg  | DIN 10756, mod. (a) 3       |
+
+HMF: n.d.- not detectable < limit of quantification 0.1 mg/kg
+Diastase: n.d. - not detected < limit of quantification 1 DZ
+Free Acid: n.d. not detectable < limit of quantification 0.1 mmol/kg
+
+The Diastase number (DZ or DN) corresponds in value to the volume of a 1% starch solution in mL, which is degraded by the enzymes of 1 g Honey in 1 hour at 40°C
+(a) : accredited method. (na) : not accredited method. (1) 2019-07, §64 LFGB (2) 2019-07 (3) 2009-08
+
+Interpretation:
+Regarding the examined parameters the sample corresponds to the legal requirements for honey (Article 1 in connection with Annex II Council directive 2001/110/EC).

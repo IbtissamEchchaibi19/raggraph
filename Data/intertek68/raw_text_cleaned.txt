@@ -1,0 +1,98 @@
+Analysis Requested: Determination of the botanical and geographical origin of honey.
+
+| Parameter                | Description                       | Result                      | Method                   |
+| ------------------------ | --------------------------------- | --------------------------- | ------------------------ |
+| Yeast content estimated  |                                   | increased (>500,000/10g)  | PM DE01.040              |
+| Starch content           |                                   | very low (< 5%)             | PM DE01.037              |
+| Pollen content           |                                   |                             | PM DE01.108              |
+| Colour                   |                                   | amber                       | PM DE01.108              |
+| Consistency              |                                   | liquid                      | PM DE01.108              |
+| Odour                    |                                   | typical for honey           | PM DE01.108              |
+| Taste                    |                                   | sweet,bloomy,fruity,malty   | PM DE01.108              |
+| Honeydew elements        |                                   | crystalline matter (much), spores (few) | PM DE01.108              |
+| Other sediment           |                                   | plant fibers, of dirt         | PM DE01.108              |
+| Electr. conductivity     |                                   | 1.27 mS/cm                  | PM DE01.042:2018-03      |
+
+n.d.= not detected, n.d.(Starch)=<1%, n.a.=not analysed
+
+See attachment for results of the pollen analysis.
+
+Interpretation:
+According to the pollen-analysis the above-mentioned sample may be called "Honeydew Honey". It may not be called "Ziziphus Honey" due to the low pollen content and the weak organoleptic properties. In addition, the product name may be supplemented with information concerning the regional origin "Middle East" (Council Directive 2001/110/EC dated 20/12/2001 in combination with literature). The sample contains mostly pollen from nectarless plants, hence, the number of nectariferious plants is so low so that the values are not representative.
+
+
+Attachment: Pollen Analysis
+
+Relative distribution of pollen of nectariferious plants after DIN10760
+(undiff. = undifferentiated; accomp. = accompanying; signif. = significant)
+
+Accomp. pollen (16% - 45%)
+
+36% undiff. Combretaceae
+36% Ziziphus (jujube)
+
+Signif. Isolated pollen (3% - 15%)
+
+7% undiff. Myrtaceae (myrtle family)
+4% Trifolium (clover)
+3% undiff. Asteraceae (daisy family)
+
+List of identified pollen types
+
+Identified pollen grains of nectariferous plants
+
+Asteraceae
+undiff. (daisy family)
+
+Combretaceae
+undiff. (-)
+
+Convolvulaceae
+Ipomoea (morning glory)
+
+Cucurbitaceae
+Citrullus (water melon)
+
+Cucurbitaceae
+Cucumis (cucumber)
+
+Fabaceae
+Trifolium (clover)
+
+Mimosaceae
+Acacia (whattle)
+
+Mimosaceae
+Leucaena (leadtree)
+
+Myrtaceae
+Eucalyptus (gum)
+
+Myrtaceae
+undiff. (myrtle family)
+
+Portulacaceae
+undiff. (purslane family)
+
+Rhamnaceae
+Ziziphus (jujube)
+
+Identified pollen grains of nectarless plants
+
+Chenopodiaceae
+undiff. (amaranth family)
+
+Cyperaceae
+undiff. (sedges)
+
+Pinaceae
+undiff. (pine family)
+
+Poaceae
+undiff. (grasses)
+
+Poaceae
+Zea (maize)
+
+Ranunculaceae
+Thalictrum (meadow rue)

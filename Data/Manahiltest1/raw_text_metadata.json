@@ -1,0 +1,20 @@
+{
+  "report_number": "FRC-RP-CHA-24-053",
+  "client_name": "Manahil",
+  "client_address": "Crown farms, Fujairah",
+  "contact_email": "mouncif@manahil.ae",
+  "contact_phone": "0526927610",
+  "sample_id": "S-241205-00013",
+  "report_date": "24/12/2024",
+  "sample_collection_date": "05/12/2024",
+  "sample_receiving_date": "05/12/2024",
+  "sample_production_date": "11/2024",
+  "sample_expiration_date": "11/2026",
+  "certifications": [
+    "ISO 9001:2016",
+    "ISO 4001:2015",
+    "ISO 45001:2018"
+  ],
+  "sample_barcode": "Not specified",
+  "customer_po_number": "NA"
+}

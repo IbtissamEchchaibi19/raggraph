@@ -1,0 +1,42 @@
+ANALYSIS REQUESTED: Determination of the botanical and geographical origin of honey.
+
+| Parameter                   | Description                        | Result                | Method                  |
+|----------------------------|------------------------------------|-----------------------|-------------------------|
+| Yeast content - estimated   |                                    | low (<50,000/10g)      | PM DE01.040 (a)        |
+| Starch content_acc. to      |                                    | very low (< 5%)         | PM DE01.037 (a)        |
+| pollen content              |                                    |                       | PM DE01.108 (a)        |
+| Colour                      |                                    | amber                 | PM DE01.108 (a)        |
+| Consistency                 |                                    | liquid                | PM DE01.108 (a)        |
+| Odour                       |                                    | typical for honey       | PM DE01.108 (a)        |
+| Taste                       |                                    | sweet,fruity,malty,sour,spicy | PM DE01.108 (a)        |
+| Honeydew elements           |                                    | crystalline matter (moderate),spores (few) | PM DE01.108 (a)        |
+| Other sediment              |                                    | plant fibers            | PM DE01.108 (a)        |
+| Electr. conductivity        |                                    | 2.06 mS/cm            | PM DE01.042:2022-04 (a) |
+
+Interpretation:
+According to this analysis the above-mentioned sample may be called "Honeydew Honey". In addition, the product name may be supplemented with information concerning the regional origin "Middle East" (Council Directive 2001/110/EC dated 20/12/2001 in combination with literature).
+
+ATTACHMENT: Relative distribution of pollen of nectariferious plants after DIN10760 (undiff. = undifferentiated; accomp. = accompanying; signif. = significant)
+
+| Category                    | Result | Pollen Type           |
+|-----------------------------|--------|-----------------------|
+| Main pollen (>45%)          | 64%    | Acacia (whattle)      |
+| Accomp. pollen (16% - 45%) | 20%    | unknown pollen type   |
+| Signif. Isolated pollen (3% - 15%) | 3%    | Prosopis (mesquite)   |
+
+List of identified pollen types
+Identified pollen grains of nectariferous plants:
+Apiaceae undiff. (carrot family)
+Arecaceae undiff. (palm trees)
+Brassicaceae undiff. (cabbage family)
+Fabaceae Medicago (burclover)
+Fabaceae Prosopis (mesquite)
+Fabaceae Trifolium (clover)
+Mimosaceae Acacia (whattle)
+Myrtaceae undiff. (myrtle family)
+Rosaceae Prunus (stone fruit)
+Sapindaceae undiff. (soapberry family)
+
+Identified pollen grains of nectarless plants:
+Chenopodiaceae undiff. (amaranth family)
+Cyperaceae undiff. (sedges)

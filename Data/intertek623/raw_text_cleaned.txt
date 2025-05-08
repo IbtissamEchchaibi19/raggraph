@@ -1,0 +1,62 @@
+Analysis Report
+
+Product: Honey
+Sample description / Batch: SAMPLE 6 - SAMAR - APIARY 8/2022
+Sampling: Client
+Packaging / Quantity: Plastic container / ca. 70g
+Start / End of analysis: 19.07.2022/28.07.2022
+
+ANALYSIS REQUESTED: Determination of the botanical and geographical origin of honey
+
+| Parameter                  | Description                                   | Result                 | Method                   |
+| -------------------------- | --------------------------------------------- | ---------------------- | ------------------------ |
+| Yeast content - estimated  |                                               | low (<50,000/10g)       | PM DE01.040 (a)          |
+| Starch content_acc. to     |                                               | very low (< 5%)         | PM DE01.037 (a)          |
+| pollen content             |                                               |                        |                          |
+| Colour                     |                                               | amber                  | PM DE01.108 (a)          |
+| Consistency                |                                               | liquid                 | PM DE01.108 (a)          |
+| Odour                      |                                               | typical for honey      | PM DE01.108 (a)          |
+| Taste                      |                                               | sweet,fruity,malty,spicy | PM DE01.108 (a)          |
+| Honeydew elements          |                                               | crystalline matter (moderate),spores (few) | PM DE01.108 (a)³         |
+| Other sediment             |                                               | plant fibers           | PM DE01.108 (a)          |
+| Electr. conductivity       |                                               | 2.13 mS/cm             | PM DE01.042:2022-04 (a) |
+
+n.d.= not detected, n.d.(Starch)=<1%, n.a.=not analysed
+see attachment for results of the pollen analysis
+(a) : accredited method. (na) : not accredited method.
+
+Interpretation:
+According to this analysis the above-mentioned sample may be called "Honeydew Honey". In addition, the product name may be supplemented with information concerning the regional origin "Middle East" (Council Directive 2001/110/EC dated 20/12/2001 in combination with literature).
+
+
+ATTACHMENT
+
+Relative distribution of pollen of nectariferious plants after DIN10760
+(undiff. = undifferentiated; accomp. = accompanying; signif. = significant)
+
+Main pollen (>45%)
+58%
+Acacia (whattle)
+
+Accomp. pollen (16% - 45%)
+33%
+Prosopis (mesquite)
+
+List of identified pollen types
+
+Identified pollen grains of nectariferous plants
+
+Combretaceae undiff. (-)
+Convolvulaceae undiff. (bindweed family)
+Fabaceae Prosopis (mesquite)
+Fabaceae Trifolium (clover)
+Mimosaceae Acacia (whattle)
+Mimosaceae Leucaena (leadtree)
+Rhamnaceae undiff. (buckthorn family)
+Sapindaceae undiff. (soapberry family)
+
+Identified pollen grains of nectarless plants
+
+Cyperaceae undiff. (sedges)
+Poaceae undiff. (grasses)
+Zygophyllaceae Tribulus (caltrop)

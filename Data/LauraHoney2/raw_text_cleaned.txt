@@ -1,0 +1,48 @@
+TEST REPORT
+
+CHEMICAL ANALYSIS OF HONEY
+
+Sample Description: Honey 1
+Sample Appearance: Dark Yellow
+
+Date of Analysis: 29/08/2024 to 10-09-2024
+
+TEST RESULTS
+
+| PARAMETERS                   | TEST METHODS | UNITS          | RESULTS |
+| :--------------------------- | :----------- | :------------- | :------ |
+| pH at 25°C                   | IHC, Method 4 | --             | 4.22    |
+| Electrical Conductivity      | IHC, Method 2 | µmhos/cm       | 762.6   |
+| Ash Content                  | IHC, Method 3 | g/100g         | 0.07    |
+| Moisture Content             | IHC, Method 5.1 | %              | 18.6    |
+| Hydroxy Methyl Furfural Content (HMF) | IHC, Method 1 | mg/Kg          | 38.55   |
+| Diastase Activity            | IHC, Method 6.2 | Schade Unit    | 8.6     |
+| Total Sugar Content          | IHC, Method 7.2 | g/100g         | 70.09   |
+| Fructose                     | IHC, Method 7.2 | g/100g         | 34.24   |
+| Glucose                      | IHC, Method 7.2 | g/100g         | 35.85   |
+| Sucrose                      | IHC, Method 7.2 | g/100g         | Not Detected |
+| Maltose                      | IHC, Method 7.2 | g/100g         | Not Detected |
+| Lactose                      | IHC, Method 7.2 | g/100g         | Not Detected |
+
+The above tests were carried out in accordance with Harmonised Methods of International Honey Commission.
+
+POLLEN PROFILE OF HONEY
+
+Sample as Received
+Sample Size: 40uL
+
+| Pollen Type          | Percentage |
+| :------------------- | :--------- |
+| Brassicaceae         | 37.04 %    |
+| Pinaceae Grass       | 12.96 %    |
+| Ranunuculaceae       | 25%        |
+| Amaranthaceae        | 0.93 %     |
+| Cyperus sp Cyperaceae Cyperus grass | 18.52 %    |
+| Melastomataceae      | 1.85%      |
+| Solanaceae           | 3.70 %     |
+
+Remarks: None
+
+Test Method Variation: None
+
+This report relates only to the sample tested and shall only be reproduced in full and with the written approval of Fujairah Research Centre LLC.

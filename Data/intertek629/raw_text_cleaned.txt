@@ -1,0 +1,50 @@
+Analysis Report
+
+Product: Honey
+Sample description / Batch: SAMPLE 5 - AP.3-2021 SAMAR 1 OHALA
+Sampling: Client
+Packaging / Quantity: Plastic container / ca. 50g
+Start / End of analysis: 21.06.2021 / 24.06.2021
+ANALYSIS REQUESTED: Determination of the botanical and geographical origin of honey (101294)
+
+| Parameter                  | Result                | Method                      |
+| -------------------------- | --------------------- | --------------------------- |
+| Yeast content - estimated | low (<50,000/10g)     | PM DE01.040 (a) 1          |
+| Starch content_acc. to   | very low (< 5%)       | PM DE01.037 (a) 2          |
+| Colour                     | amber                 | PM DE01.108 (a) 3          |
+| Consistency                | liquid                | PM DE01.108 (a) 3          |
+| Odour                      | typical for honey     | PM DE01.108 (a) 3          |
+| Taste                      | sweet,fruity,malty,sour | PM DE01.108 (a) 3          |
+| Honeydew elements          | crystalline matter (moderate),spores (few) | PM DE01.108 (a) 3          |
+| Other sediment             | bee hair,plant fibers | PM DE01.108 (a) 3          |
+| Electr. conductivity       | 1.80 mS/cm            | PM DE01.042:2018-03 (a)   |
+
+n.d.= not detected, n.d.(Starch)=<1% n.a.=not analysed
+see attachment for results of the pollen analysis
+(a) : accredited method. (na) : not accredited method. (1) DIN 10760 (2) Inhouse procedure (3) DIN 10964
+
+This document may only be reproduced in full. The results given herein apply to the submitted sample only.
+
+Interpretation:
+According to the analysis the above-mentioned sample may be called "Honeydew Honey". In addition, the product name may be supplemented with information concerning the regional origin "Middle East" (Council Directive 2001/110/EC dated 20/12/2001 in combination with literature).
+
+ATTACHMENT
+Relative distribution of pollen of nectariferious plants after DIN10760
+(undiff. = undifferentiated; accomp. = accompanying; signif. = significant)
+
+Main pollen (>45%): 73% Acacia (whattle)
+Accomp. pollen (16% - 45%): 24% unknown pollen type
+
+List of identified pollen types
+Identified pollen grains of nectariferous plants
+Apiaceae: Coriandrum (coriander)
+Apiaceae: undiff. (carrot family)
+Brassicaceae: undiff. (cabbage family)
+Fabaceae: Medicago (burclover)
+Fabaceae: Prosopis (mesquite)
+Mimosaceae: Acacia (whattle)
+Myrtaceae: undiff. (myrtle family)
+
+Identified pollen grains of nectarless plants
+Poaceae: undiff. (grasses)
+Polygonaceae: Rumex (dock)

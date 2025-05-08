@@ -1,0 +1,19 @@
+Analysis Requested: Electrical Conductivity
+
+| Parameter      | Result | Unit   | Method                    |
+|----------------|--------|--------|---------------------------|
+| Conductivity | 2.03   | mS/cm  | PM DE01.042:2022-04 (a) |
+
+Expanded measurement uncertainty: +/-5.5 %rel
+
+(a) : accredited method. (na) : not accredited method.
+
+Interpretation:
+
+In the investigated sample, the above-mentioned electric conductivity was determined.
+
+In case of honeys, electric conductivities of at least 0.8 mS/cm correspond to the legal requirement of honeydew honey and chestnut honey and blends of these honeys.
+
+The following honey types as well as blends with these honey types may exhibit deviating electric conductivities: strawberry tree (Arbutus unedo), bell heather (Erica), eucalyptus, lime (Tilia spp.), ling heather (Calluna vulgaris), manuka or jelly bush (leptospermum), tea tree (Melaleuca spp.).
+
+(Article 1 in connection with Annex II Council directive 2001/110/EC)

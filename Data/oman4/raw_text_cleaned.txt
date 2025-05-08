@@ -1,0 +1,59 @@
+TEST RESULTS
+
+Biology Analysis:
+
+Test Parameters Method of Test LPS Result Units LOQ
+
+Pollens Pollens
+Ghaf : Fabaceae (Prosopis sp)
+Acacia : Fabaceae (Acacia sp)
+Asteraceae (Compositae)
+Grass ; Pinaceae (formerly called Gramineae). Cyperus grass (Cyperus sp :Cyperaceae ) N/A N/A
+
+
+TEST RESULTS
+
+Sample Images:
+
+Report Comments: Based on the above tests and on received unit, the above sample of Honey was with following plant pollens, Ghaf : Fabaceae (Prosopis sp) 48.0% , Acacia : Fabaceae (Acacia sp) 48.4.0%, , Asteraceae (Compositae) 1.2% , Grass : Pinaceae (formerly called Gramineae). 1.2% , Cyperus sp Cyperaceae Cyperus grass 1.2 , the sample contain some non-honey related part, on the date tested.
+
+sample as recived
+non-honey related part
+Asteraceae (Compositae) 1.2%
+non-honey related part
+
+TEST RESULTS
+
+Al Ghaf (Prosopis)
+Prosopis SP.
+Fabaceae or Leguminosae 46.7%
+
+Acacia
+Acacia sp
+Fabaceae or Leguminosae 48.1
+
+Pinaceae (formerly called Gramineae).
+Grass 1.2%
+non-honey related part
+
+TEST RESULTS
+
+non-honey related part
+Cyperus sp
+Cyperaceae
+Cyperus grass 1.2%
+
+Al Ghaf (Prosopis)
+Prosopis SP.
+Fabaceae or Leguminosae 46.7%
+
+Notes:
+
+1. The above parameters are not covered under our accredited scope.
+
+2. UncertaintywillbereportedonCustomerrequest.
+
+3. Testmethoddeviation:none.
+
+4. Abbreviations: RTF -ResultstoFollow,ND -NotDetected, N/A -NotAvailable, CFU -ColonyFormingUnits,LPS -LimitsasperStandard, Temp.
+-Temperature,RL -Reporting Limit(methoddetection limit),ppm -partspermillion,ppb -partsperbillion.

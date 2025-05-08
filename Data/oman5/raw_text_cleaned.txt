@@ -1,0 +1,67 @@
+TEST RESULTS
+Biology Analysis:
+
+Test Parameters Method of Test LPS Result Units LOQ
+Pollens Pollens
+1. Ghaf : Fabaceae (Prosopis sp)
+2. Acacia : Fabaceae (Acacia sp)
+3. A’Sidr Ziziphus sp. 4.Pinaceae
+Grass 5. Amaranthaceae
+6. Anacardiaceae N/A N/A
+
+TEST RESULTS
+Sample Images: Based on the above tests and on received unit, the above sample of Honey was with following plant pollens, Ghaf : Fabaceae (Prosopis sp) 50.7.0% , Acacia : Fabaceae (Acacia sp) 34.6%, , Asteraceae (Compositae) 0.4% ,A’Sidr Ziziphus sp , Angiospermae, Rosales, Rhamnaceae, 2.0 , % Grass : Pinaceae (formerly called Gramineae). 2.0% , Anacardiaceae 9.6 , % Amaranthaceae 0.9 , % the sample contain some non-honey related part, on the date tested.
+Report Comments:
+Anacardiaceae 9.6%
+
+Anacardiaceae 9.6%
+
+Anacardiaceae 9.6%
+
+Acacia
+Acacia sp
+Fabaceae or Leguminosae
+34.6 %
+non-honey related part
+non-honey related part
+
+non-honey related part
+
+Acacia
+Acacia sp
+Fabaceae or Leguminosae
+34.6 %
+
+Asteraceae (Compositae)
+Pinaceae (formerly called Gramineae).
+Grass
+2.0%
+
+A’Sidr
+Ziziphus SP Angiospermae, Rosales, Rhamnaceae,
+2.0%
+
+Fabaceae or Leguminosae
+Amaranthaceae
+0.9%
+
+Al Ghaf (Prosopis)
+Prosopis SP .
+Fabaceae or Leguminosae
+50.7
+
+Asteraceae (Compositae)
+Sample as recived
+
+Notes:
+1. The above parameters are not covered under our accredited scope.
+2. Uncertainty will be reported on Customer request.
+3. Test method deviation: none.
+4. Abbreviations: RTF - Results to Follow, ND - Not Detected, N/A - Not Available, CFU - Colony Forming Units, LPS - Limits as per Standard, Temp. -Temperature, RL - Reporting Limit (method detection limit), ppm - parts per million, ppb - parts per billion.
+
+Signed for and on behalf of UIL LLC
+Yatendra Kumar
+Technical Manager
+ Signed for and on behalf of UIL LLC
+Yusra Said Al-Rawahi
+General Manager

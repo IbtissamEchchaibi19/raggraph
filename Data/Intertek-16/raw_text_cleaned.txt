@@ -1,0 +1,30 @@
+Analysis Report
+
+Product: Honey
+Sample description / Batch: SIDR 2022 - APIARY 17
+
+Analysis Requested: Commercial Analysis with Diastase Activity by Schade method
+
+| Parameter        | Result | Unit    | Method                       |
+|-----------------|--------|---------|------------------------------|
+| HMF              | 2.2    | mg/kg   | DIN 10751-3:2018-09 (a)      |
+| Moisture content | 18.0   | %       | ASU L 40.00-2/2, mod (a) 1  |
+| pH               | 6.0    | pH      | PM DE01.042:2022-04 (a)      |
+| Diastase         | 24.6   | DZ      | ASU L 40.00-1, mod. (a) 2   |
+| Free acid        | 9.7    | mmol/kg | DIN 10756, mod. (a) 3       |
+
+HMF: n.d.- not detectable < limit of quantification 0.1 mg/kg
+Diastase: n.d. - not detected < limit of quantification 1 DZ
+Free Acid: n.d. not detectable < limit of quantification 0.1 mmol/kg
+
+The Diastase number (DZ or DN) corresponds in value to the volume of a 1% starch solution in mL, which is degraded by the enzymes of 1 g Honey in 1 hour at 40°C
+
+Expanded measurement uncertainties: HMF: +/-5 %rel, Moisture: +/- 0.8 %rel, pH: +/-3.3 %rel, Diastase: +/-7.2 %rel, Free acid: +/-10 %rel
+
+(a) : accredited method. (na) : not accredited method.
+(1) 2019-07, §64 LFGB, automatic temperature compensation: as if measured at 20°C (2) 2019-07 (3) 2021-03
+
+This document may only be reproduced in full. The results given herein apply to the submitted sample only.
+
+Interpretation:
+Regarding the examined parameters the sample corresponds to the legal requirements for honey (Article 1 in connection with Annex II Council directive 2001/110/EC).

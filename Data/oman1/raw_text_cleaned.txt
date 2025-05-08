@@ -1,0 +1,72 @@
+TEST RESULTS
+
+Biology Analysis:
+
+Test Parameters Method of Test Result Units LOQ
+
+Pollens Pollens
+Ghaf : Fabaceae (Prosopis sp)
+Acacia : Fabaceae (Acacia sp)
+A’Sidr : Rhamnaceae (Ziziphus sp)
+Grass : Poaceae
+Cyperus grass : Cyperaceae (Cyperus sp) N/A N/A
+
+
+TEST RESULTS
+
+Report Comments: Based on the above tests and on received unit, the above sample of Honey was with following plant pollens, Ghaf : Fabaceae (Prosopis sp) 72% , Acacia : Fabaceae (Acacia sp) 23.41% , A’Sidr : Rhamnaceae (Ziziphus sp) 0.5%, Grass : Poaceae (formerly called Gramineae) 3.1% , Cyperus grass: Cyperaceae ( Cyperus sp ) 0.5% , the sample contain some non-honey related part, on the date tested.
+
+Sample as received
+non-honey related part
+non-honey related part
+
+Al Ghaf (Prosopis)
+Prosopis SP.
+Fabaceae or Leguminosae
+73%
+
+
+TEST RESULTS
+
+non-honey related part
+Acacia
+Acacia sp
+Fabaceae or Leguminosae
+23.4%
+
+Al Ghaf (Prosopis)
+Prosopis SP.
+Fabaceae or Leguminosae
+73%
+
+A’Sidr
+Ziziphus SP Angiospermae, Rosales, Rhamnaceae,
+0.5%
+
+
+TEST RESULTS
+
+Acacia
+Acacia sp
+Fabaceae or Leguminosae
+23.4%
+
+Cyperus sp
+Cyperaceae
+Cyperus grass
+0.5%
+
+Notes:
+
+1. The above parameters are not covered under our accredited scope.
+2. Uncertainty will be reported on Customer request.
+3. Test method deviation: none.
+4. Abbreviations: RTF - Results to Follow, ND - Not Detected, N/A - Not Available, CFU - Colony Forming Units, LPS - Limits as per Standard, Temp. - Temperature, RL - Reporting Limit(method detection limit), ppm - parts per million, ppb - parts per billion.
+
+Signed for and on behalf of UIL LLC
+Yatendra Kumar
+Technical Manager
+
+Signed for and on behalf of UIL LLC
+Yusra Said Al-Rawahi
+General Manager

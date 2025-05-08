@@ -1,0 +1,23 @@
+ANALYSIS REQUESTED: Sugar spectrum by HPLC-RI
+
+| Parameter        | Result | Unit    | Method            |
+|-----------------|--------|---------|-------------------|
+| Fructose (F)     | 36.1   | g/100 g | DIN 10758 mod. (a)|
+| Glucose (G)      | 23.9   | g/100 g | DIN 10758 mod. (a)|
+| Sucrose          | n.d.   | g/100 g | DIN 10758 mod. (a)|
+| Turanose         | 2.6    | g/100 g | DIN 10758 mod. (a)|
+| Maltose          | n.d.   | g/100 g | DIN 10758 mod. (a)|
+| F/G ratio        | 1.51   |         |                   |
+| Invert sugar (F+G) | 60.0   | g/100 g |                   |
+
+n.d. - not detected < 0.5 g/100 g (Fru, Glu, Suc); < 1.0 g/100 g (Mal, Tur);
+Expanded measurement uncertainty: Fructose: + 5% rel, Glucose: + % rel, Sucrose: + 11% rel, other sugars: + 20 % rel
+(a) : accredited method. (1) 1997-05 (2) calculated
+
+This document may only be reproduced in full. The results given herein apply to the submitted sample only.
+
+Interpretation:
+
+Regarding the analyzed parameters and the mentioned limits of detection the sugar content of the sample corresponds to the legal regulations (Honey directive 2001/110/EC from Dec. 20th, 2001; Article 1 in connection with Annex II).
+
+The F/G ratio is within the naturally occurring range for honey (according to relevant literature: Persano Oddo, Apidologie 35 (2004), 38-81 and Swiss food compendium (2004)).

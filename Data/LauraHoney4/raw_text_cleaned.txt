@@ -1,0 +1,39 @@
+CHEMICAL ANALYSIS OF HONEY
+
+Sample Description: Honey 3
+
+The above tests were carried out in accordance with Harmonised Methods of International Honey Commission.
+
+TEST RESULTS
+
+| PARAMETERS                             | TEST METHODS | UNITS      | RESULTS |
+| -------------------------------------- | ------------ | ---------- | ------- |
+| pH at 25°C                             | IHC, Method 4|            | 4.05    |
+| Electrical Conductivity                | IHC, Method 2| µmhos/cm   | 480.0   |
+| Ash Content                              | IHC, Method 3| g/100g     | 0.10    |
+| Moisture Content                         | IHC, Method 1| %          | 17.40   |
+| Hydroxy Methyl Furfural Content (HMF) | IHC, Method 5.1| mg/Kg      | 39.33   |
+| Diastase Activity                        | IHC, Method 6.2| Schade Unit| 5.50    |
+| Total Sugar Content                      | IHC, Method 7.2| g/100g     | 69.09   |
+| Fructose                                 | IHC, Method 7.2| g/100g     | 36.37   |
+| Glucose                                  | IHC, Method 7.2| g/100g     | 32.72   |
+| Sucrose                                  | IHC, Method 7.2| g/100g     | Not Detected |
+| Maltose                                  | IHC, Method 7.2| g/100g     | Not Detected |
+| Lactose                                  | IHC, Method 7.2| g/100g     | Not Detected |
+
+Brassicaceae 61.40 %
+
+Sample as Received
+Sample Size: 40uL
+
+Amaranthaceae 3.51 %
+
+Ranunuculaceae 19.30 %
+
+Solanaceae 1.75 %
+
+Pinaceae Grass (formerly called Gramineae) 7.02 %
+
+Melastomataceae 1.75%
+
+Cyperus sp CyperaceaeCyperus grass 5.26 %

@@ -1,0 +1,49 @@
+Analysis Report
+
+Product: Honey
+Sample description / Batch: SAMPLE 17 - SAMAR - APIARY 19/2022
+Sampling: Client
+Packaging / Quantity: Plastic container / ca. 70g
+Start / End of analysis: 19.07.2022/02.08.2022
+ANALYSIS REQUESTED: Determination of the botanical and geographical origin of honey
+
+| Parameter                 | Description                      | Result                    | Method                  |
+|--------------------------|-----------------------------------|---------------------------|-------------------------|
+| Yeast content - estimated |                                   | increased (>500,000/10g) | PM DE01.040             |
+| Starch content_acc. to    |                                   | very low (< 5%)           | PM DE01.037             |
+| pollen content            |                                   |                           | PM DE01.108             |
+| Colour                    |                                   | amber                     | PM DE01.108             |
+| Consistency               |                                   | liquid                    | PM DE01.108             |
+| Odour                     |                                   | typical for honey         | PM DE01.108             |
+| Taste                     |                                   | sweet,fruity,malty,spicy  | PM DE01.108             |
+| Honeydew elements         | crystalline matter (moderate). spores (some) |                           | PM DE01.108             |
+| Other sediment            | bee hair,plant fibers            |                           | PM DE01.108             |
+| Electr. conductivity      |                                   | 1.90 mS/cm                | PM DE01.042:2022-04      |
+
+n.d.= not detected, n.d.(Starch)=<1%, n.a.=not analysed
+see attachment for results of the pollen analysis
+
+Interpretation:
+According to this analysis the above-mentioned sample may be called "Honeydew Honey". In addition, the product name may be supplemented with information concerning the regional origin "Middle East" (Council Directive 2001/110/EC dated 20/12/2001 in combination with literature).
+
+ATTACHMENT
+Relative distribution of pollen of nectariferious plants after DIN10760
+(undiff. = undifferentiated; accomp. = accompanying; signif. = significant)
+
+Main pollen (>45%): 48% Prosopis (mesquite)
+Accomp. pollen (16% - 45%): 40% Acacia (whattle)
+
+List of identified pollen types:
+Identified pollen grains of nectariferous plants:
+Asteraceae undiff. (daisy family)
+Combretaceae undiff. (-)
+Convolvulaceae undiff. (bindweed family)
+Fabaceae Prosopis (mesquite)
+Fabaceae Trifolium (clover)
+Lamiaceae undiff. (mint family)
+Mimosaceae Acacia (whattle)
+Myrtaceae undiff. (myrtle family)
+Rhamnaceae undiff. (buckthorn family)
+
+Identified pollen grains of nectarless plants:
+Poaceae undiff. (grasses)

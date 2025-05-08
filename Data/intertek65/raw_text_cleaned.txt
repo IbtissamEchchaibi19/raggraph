@@ -1,0 +1,59 @@
+ANALYSIS REQUESTED: Determination of the botanical and geographical origin of honey.
+
+| Parameter             | Description                  | Result                  | Method                     |
+|----------------------|------------------------------|-------------------------|----------------------------|
+| Yeast content - estimated |                            | increased (>500,000/10g) | PM DE01.040                 |
+| Starch content        |                              | very low (< 5%)         | PM DE01.037                 |
+| Colour                |                              | light amber             | PM DE01.108                 |
+| Consistency           |                              | liquid                  | PM DE01.108                 |
+| Odour                 |                              | typical for honey       | PM DE01.108                 |
+| Taste                 |                              | sweet,bloomy,fruity,malty| PM DE01.108                 |
+| Honeydew elements     | crystalline matter (moderate) |                         | PM DE01.108                 |
+| Other sediment        | plant fibers,pieces of dirt    |                         | PM DE01.108                 |
+| Electr. conductivity  |                              | 1.15 mS/cm              | PM DE01.042:2018-03         |
+
+n.d.= not detected, n.d.(Starch)=<1%, n.a.=not analysed
+
+See attachment for results of the pollen analysis.
+
+Interpretation:
+According to the pollen-analysis the above-mentioned sample may be called "Honeydew Honey". It may not be called "Ziziphus Honey" due to the low pollen content and the weak organoleptic properties. In addition, the product name may be supplemented with information concerning the regional origin "Middle East".
+
+ATTACHMENT
+
+(undiff. Relative = undifferentiated; distribution accomp. of pollen = accompanying; of nectariferious signif. = significant) plants after DIN10760
+
+|            |              |
+|-----------------|----------------|
+| Accomp. pollen (16% - 45%) | 32%          |
+| Ziziphus (jujube)    | 20%          |
+| Trifolium (clover)  |              |
+| Signif. Isolated pollen (3% - 15%) | 5%           |
+| Prosopis (mesquite) |              |
+
+List of identified pollen types
+
+Identified pollen grains of nectariferous plants
+
+Combretaceae undiff. (-)
+Cucurbitaceae Citrullus (water melon)
+Cucurbitaceae Cucumis (cucumber)
+Fabaceae Prosopis (mesquite)
+Fabaceae Trifolium (clover)
+Malvaceae Abutilon (flowering maple)
+Malvaceae Gossypium (cotton)
+Malvaceae undiff. (mallow family)
+Mimosaceae Acacia (whattle)
+Mimosaceae Leucaena (leadtree)
+Myrtaceae undiff. (myrtle family)
+Nyctaginaceae Boerhavia (-)
+Rhamnaceae undiff. (buckthorn family)
+Rhamnaceae Ziziphus (jujube)
+Rutaceae Citrus (citrus fruit)
+Tiliaceae undiff. (-)
+
+Identified pollen grains of nectarless plants
+
+Poaceae undiff. (grasses)
+Poaceae Zea (maize)
+Zygophyllaceae Tribulus (caltrop)

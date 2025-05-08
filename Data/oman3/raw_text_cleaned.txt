@@ -1,0 +1,65 @@
+TEST RESULTS
+
+Biology Analysis:
+
+Test Parameters	Method of Test	Result	Units	LOQ
+
+Pollens	Pollens			
+
+Ghaf : Fabaceae (Prosopis sp)				
+Acacia : Fabaceae (Acacia sp)				
+Asteraceae (Compositae)				
+Cyperus grass : Cyperaceae (Cyperus sp )				
+A’Sidr Ziziphus SP Angiospermae, Rosales, Rhamnaceae,				
+
+TEST RESULTS
+
+Sample Images:
+Report Comments: Based on the above tests and on received unit, the above sample of Honey was with following plant pollens, Ghaf : Fabaceae (Prosopis sp) 50.0.0% , Acacia : Fabaceae (Acacia sp) 28.57%, , Cyperus grass: Cyperaceae ( Cyperus sp ) 7. 1% , Asteraceae (Compositae) 7.1% , A’Sidr : Ziziphus sp Angiospermae, Rosales, Rhamnaceae ) 7.1% , the sample contain some non -honey related part, it was observed that the sample with low number of pollens , on the date tested.
+sample as recived
+
+A’Sidr
+Ziziphus SP Angiospermae, Rosales, Rhamnaceae,
+7.1% 
+Acacia
+Acacia sp
+Fabaceae or Leguminosae
+28.57%
+
+TEST RESULTS
+
+non-honey related part
+Acacia
+Acacia sp
+Fabaceae or Leguminosae
+28.57% 
+Al Ghaf (Prosopis)
+Prosopis SP.
+Fabaceae or Leguminosae
+50.0% 
+Asteraceae (Compositae)
+7.1%
+
+TEST RESULTS
+
+non-honey related part
+Al Ghaf (Prosopis)
+Prosopis SP.
+Fabaceae or Leguminosae
+53.0% 
+non-honey related part
+non-honey related part
+
+TEST RESULTS
+
+non-honey related part
+Cyperus sp
+Cyperaceae
+Cyperus grass
+7.1% 
+non-honey related part
+Notes:
+1. The above parameters are not covered under our accredited scope.
+2. Uncertainty will be reported on Customer request.
+3. Test method deviation: none.
+4. Abbreviations: RTF - Results to Follow, ND - Not Detected, N/A - Not Available, CFU - Colony Forming Units, LPS - Limits as per Standard, Temp. -Temperature, RL - Reporting Limit (method detection limit), ppm - parts per million, ppb - parts per billion.

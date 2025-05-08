@@ -1,0 +1,21 @@
+ANALYSIS REQUESTED: Commercial Analysis with Diastase Activity by Schade method
+
+| Parameter        | Result | Unit    | Method                    |
+|-----------------|--------|---------|---------------------------|
+| HMF              | 0.1    | mg/kg   | DIN 10751-3:2018-09      |
+| Moisture content | 18.2   | %       | ASU L 40.00-2/2, mod     |
+| pH               | 6.7    | pH      | PM DE01.042:2022-04      |
+| Diastase         | 30.4   | DZ      | ASU L 40.00-1, mod.      |
+| Free acid        | 8.2    | mmol/kg | DIN 10756, mod.          |
+
+HMF: not detectable < limit of quantification 0.1 mg/kg
+Diastase: not detected < limit of quantification 1 DZ
+Free Acid: not detectable < limit of quantification 0.1 mmol/kg
+
+The number (DZ or DN) corresponds in value to the volume of a 1% starch solution in mL, which is degraded by the enzymes of 1 g Honey in 1 hour at 40°C
+Expanded measurement uncertainties: HMF: +/-5 %rel, Moisture: +/- 0.8 %rel, pH: +/-3.3 %rel, Diastase: +/-7.2 %rel, Free acid: +/-10 %rel
+
+Interpretation:
+The pH value is above the typically observed range for honey (according to relevant literature: Persano Oddo, Apidologie 35 (2004), 38-81 and Swiss food compendium (2004)).
+Some varieties of honeys such as Jujube honey may have higher pH values than 6.5.
+Regarding the other parameters the sample corresponds to the legal regulations (Article 1 in connection with Annex II Council directive 2001/110/EC).

@@ -1,0 +1,18 @@
+PARAMETERS,TEST METHODS,UNITS,RESULTS,REFERENCE
+Appearance (schal),Physical Observation,-,Glossy,
+Colour (Uall),Physical Observation,-,Light Amber,
+Consistency(plail),Physical Observation,-,Viscous liquid,
+Odor(),Physical Observation,-,Satisfying,
+Taste(pabli),Physical Observation,-,Sweet,
+"Moisture Content (agb,ll sgirs)","IHC Method 1, Refractometry",%,16.8,< 20
+pH(disgard Jolas),"IHC Method 4, Potentiometry",-,5.33,
+Electrical Conductivity whw,"IHC Method 2, Conductivity",mS/cm,1.49,
+Ash content (shoul sgiro),"IHC Method 3, Gravimetry",%,0.34,
+Hydroxymethylfurfural (HMF) this So,"IHC Method 5.1, HPLC",mg/Kg,4.16,< 80
+"Fructose(jgi5,ell)","IHC Method 7.2, HPLC",%,32.92,
+Glucose(jgSaboll),"IHC Method 7.2, HPLC",%,23.63,
+Fructose/Glucose,"IHC Method 7.2, HPLC",-,1.39,
+Fructose +,"IHC Method 7.2, HPLC",%,56.55,
+,"IHC Method 7.2, HPLC",%,3.78,
+Maltose (jailhall),"IHC Method 7.2, HPLC",%,<0.1,
+Total Sairs that!,"IHC Method 7.2, HPLC",%,60.33,60

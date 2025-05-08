@@ -1,0 +1,48 @@
+PHYSICAL-CHEMICAL ANALYSIS
+
+| PARAMETERS                | TEST METHODS                  | UNITS | RESULTS | REFERENCE |
+| :------------------------ | :---------------------------- | :---- | :------ | :-------- |
+| Appearance                | Physical Observation          | -     | Glossy  |           |
+| Colour                    | Physical Observation          | -     | Light Amber |           |
+| Consistency               | Physical Observation          | -     | Viscous liquid |           |
+| Odor                      | Physical Observation          | -     | Characteristic |           |
+| Taste                     | Physical Observation          | -     | Sweet   |           |
+| Moisture Content          | IHC Method 1, Refractometry   | %     | 16.0    | < 20      |
+| pH                        | IHC Method 4, Potentiometry   | -     | 5.79    |           |
+| Electrical Conductivity | IHC Method 2, Conductivity    | mS/cm | 1.38    |           |
+| Ash content               | IHC Method 3, Gravimetry      | %     | 0.16    |           |
+| Hydroxymethylfurfural (HMF) | IHC Method 5.1, HPLC          | mg/Kg | 4.13    | 80        |
+| Fructose                  | IHC Method 7.2, HPLC          | %     | 34.11   |           |
+| Glucose                   | IHC Method 7.2, HPLC          | %     | 24.64   |           |
+| Fructose/Glucose          | IHC Method 7.2, HPLC          | -     | 1.38    |           |
+| Fructose +                | IHC Method 7.2, HPLC          | %     | 58.75   |           |
+| Maltose                   | IHC Method 7.2, HPLC          | %     | <0.1    |           |
+| Total Sugar               | IHC Method 7.2, HPLC          | %     | 62.24   | > 60      |
+
+POLLEN ANALYSIS - MICROSCOPY
+
+Pollen density: Medium
+Number of pollens identified: 4
+Other particles identified: Absent
+
+| POLLEN CLASS                  | POLLEN FAMILY                |
+| :---------------------------- | :--------------------------- |
+| Dominant Pollen > 46%          | Family: Rhamnaceae, ziziphus sp: 81% |
+| Accompany Pollen 16-45%       | Not present                  |
+| Isolated Frequent Pollen 3-15% | Family: Fabaceae, 4% , Family: Amaranthaceae, 4% |
+| Isolated pollen < 3%           | Family: Brassicaceae, 3% , Family: Fabaceae 2%, Family: Lamiaceae, >1%, Family: Malvaceae: > 1%, Family: Amaranthaceae, 4%, Family: Ceperus 1% , Family: Poaceae 3 %, Family: Undefined <1% |
+
+TYPE OF HONEY: Monofloral
+Honey name: Rhamnaceae, ziziphus
+Rhamnaceae, ziziphus sp: 81%
+Family: Fabaceae, 4%
+Family: Fabaceae, 1%
+
+
+Conclusion
+The analyzed Physio-Chemical parameters are in compliance with GSO 147:2022 Honey regulations.
+Based on the pollen analysis, the honey is monofloral with dominant species of 81% is ziziphus sp.
+
+Remarks:
+This report shall not be reproduced except in full, without the written approval of the Fujairah Research Centre laboratory.
+The results in this report relate only to the items tested as described in this report.

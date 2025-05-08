@@ -1,0 +1,47 @@
+Analysis Requested: Determination of the botanical and geographical origin of honey.
+
+| Parameter                  | Description                       | Result                    | Method                   |
+| -------------------------- | --------------------------------- | ------------------------- | ------------------------ |
+| Yeast content - estimated  |                                   | low (<50,000/10g)        | PM DE01.040 (a)          |
+| Starch content acc. to     |                                   | very low (< 5%)           | PM DE01.037 (a)          |
+| pollen content             |                                   |                           | PM DE01.108 (a)          |
+| Colour                     |                                   | amber                     | PM DE01.108 (a)          |
+| Consistency                |                                   | liquid                    | PM DE01.108 (a)          |
+| Odour                      |                                   | typical for honey         | PM DE01.108 (a)          |
+| Taste                      |                                   | sweet,fruity,malty,spicy | PM DE01.108 (a)          |
+| Honeydew elements          |                                   | crystalline matter (moderate),spores (few) | PM DE01.108 (a) |
+| Other sediment             |                                   | plant fibers              | PM DE01.108 (a)          |
+| Electr. conductivity       |                                   | 1.85 mS/cm                | PM DE01.042:2022-04 (a) |
+
+n.d.= not detected, n.d.(Starch)=<1%, n.a.=not analysed
+see attachment for results of the pollen analysis
+(a) : accredited method. (na) : not accredited method. (1) DIN 10760 (2) Inhouse procedure (3) DIN 10964
+
+Interpretation:
+According to this analysis the above-mentioned sample may be called "Honeydew Honey". In addition, the product name may be supplemented with information concerning the regional origin "Middle East" (Council Directive 2001/110/EC dated 20/12/2001 in combination with literature).
+
+Attachment: Relative distribution of pollen of nectariferious plants after DIN10760 (undiff. = undifferentiated; accomp. = accompanying; signif. = significant)
+
+Accomp. pollen (16% - 45%):
+Acacia (whattle): 30%
+undiff. Cucurbitaceae (gourd family): 26%
+Prosopis (mesquite): 24%
+
+Signif. Isolated pollen (3% - 15%):
+undiff. Asteraceae (daisy family): 7%
+
+List of identified pollen types:
+Identified pollen grains of nectariferous plants:
+Asteraceae: Taraxacum (dandelion)
+Asteraceae: undiff. (daisy family)
+Convolvulaceae: undiff. (bindweed family)
+Cucurbitaceae: undiff. (gourd family)
+Euphorbiaceae: Chrozophora (tournesol)
+Fabaceae: Prosopis (mesquite)
+Fabaceae: Trifolium (clover)
+Mimosaceae: Acacia (whattle)
+Myrtaceae: undiff. (myrtle family)
+Rutaceae: Citrus (citrus fruit)
+
+Identified pollen grains of nectarless plants:
+Chenopodiaceae: undiff. (amaranth family)
